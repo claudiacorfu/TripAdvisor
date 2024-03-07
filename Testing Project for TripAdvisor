@@ -1,0 +1,28 @@
+<h1>Testing Project for TripAdvisor </h1>
+TABLE OF CONTENTS
+1.0 Introduction
+2.0 Objectives
+3.0 Scope
+4.0 Testing Strategy
+4.1 Entry and Exit criteria
+5.1 Alpha Testing (Unit Testing)
+5.2 System and Integration Testing
+5.3 Performance and Stress Testing
+5.4 User Acceptance Testing
+5.5 Batch Testing
+5.6 Automated Regression Testing
+5.7 Beta Testing
+6.0 Roles and Responsabilities
+7.0 Hardware Requirements
+8.0 Environment Requirements
+9.0 Test Schedule
+10.0 Control Procedures
+11.0 Responsibilities
+12.0 Schedules
+13.0 Planning Risk
+14.0 Approvals
+
+Revision History
+| Date       | Description               | Author              | Comments    |
+|------------|---------------------------|---------------------|-------------|
+| 07.03.2024 | Test Plan for TripAdvisor | Corfu Claudia Ioana | version 1.0 |
