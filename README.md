@@ -78,34 +78,55 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.3 Exit criteria defined </h4>
 
 •	All critical defects identified during testing are addressed and verified.
+
 •	Performance benchmarks meet predefined thresholds for response time and resource utilization.
+
 •	Security vulnerabilities identified during testing are mitigated or documented with a resolution plan.
+
 •	Identified usability issues are addressed or prioritized for future improvements.
+
 •	Test documentation, including test cases, test results and any deviations are reviewed and finalized.
+
 •	Sign-off by stakeholders indicating readiness for production deployment.
+
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
 a. Website functionalities
+
 b. User registration and login processes
+
 c. Localization and internationalization testing (multiple languages and regions)
+
 d. Search functionality for hotels, restaurants, attractions, etc.
+
 e. Review submission and moderation processes
+
 f. Booking process for hotels, flights, and restaurants (if applicable)
+
 g. Integration with third-party services (e.g., Google Maps)
+
 h. Performance testing (response times, loading times, etc.)
+
 i. Compatibility testing across different browsers 
+
 j. Security testing (data protection, encryption, etc.)
+
 
 <h5>Tests not in scope: </h5>
 
 a. Third-party services not directly related to TripAdvisor's core functionalities
+
 b. Backend infrastructure testing (assumed to be covered by the development team)
+
 c. Testing of features not publicly accessible or intended for internal use only
+
 d. Mobile application functionalities (iOS and Android)
+
 e. Accessibility testing (compliance with WCAG standards)
+
 
 <h4>1.1.5 Risks detected</h4>
 
