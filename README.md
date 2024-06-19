@@ -67,9 +67,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.2 Entry criteria defined </h4>
 
 •	Availability of the test environment with the latest version of TripAdvisor.
+
 •	Completion of initial system integration testing to ensure basic functionality.
+
 •	Availability of test data, including examples of reviews, ratings and user profiles.
+
 •	Test environment set up to simulate various scenarios and usage environments.
+
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
