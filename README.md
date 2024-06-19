@@ -217,40 +217,42 @@ The testing process will be executed based on the application requirements. <b>
 
 The following test conditions were found: <br>
 
-**![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/7d813844-cf99-42e1-914a-cfcf8f26755b)**
+![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/7d813844-cf99-42e1-914a-cfcf8f26755b)
+![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/8d443712-01b1-4c96-9fcc-0813d4696b6d)
+
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Stories%2C%20Tests%2C%20Bugs.pdf)
 
-<h3>1.5 Test Implementation</h3>
+<h3>1.5. Test Execution </h3>
 
-The following elements are needed to be ready before the test execution phase begins:
+Test cases are executed on the created test Cycle summary: 
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/e1beeeed-a52c-4af4-9b6d-516f3e48c006)
 
-<h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
-
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Bugs.pdf
 
 The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+
+![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/0515cfa7-d237-4ba0-956c-6a05cb86d32a)
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+1.6 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: **https://github.com/claudiacorfu/TripAdvisor/blob/main/Traceability_Matrix.xlsx**
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![Screenshot 2024-06-19 135338](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/8b911b16-b2e3-47bd-a9fd-6ffa74611387)
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+The final report shows that a number **5** tests have failed of a total of **40**
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**# TripAdvisor
+A number of **5** total bugs were found, from which the priority is: **2**
+
+The project has successfully implemented and tested a wide range of functionality for users, with a high test execution and success rate. Five significant bugs have been identified, all of which are being resolved. Prompt resolution of these bugs will be crucial to ensure a continued robust user experience. The detailed testing and bug identification efforts have laid a solid foundation for further improvements and future development.
