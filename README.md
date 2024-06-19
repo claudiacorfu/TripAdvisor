@@ -29,25 +29,32 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 **Project manager Tapalaga Ioana**
+
 •	Overall responsibility for project planning, including scheduling and resource allocation for testing activities.
 •	Collaborates with product owner to define scope, objectives and project deliverables related to testing.
 •	Ensure the test plan is aligned with project goals and timelines.
 •	Coordinate communication between team members, stakeholders and other relevant parties.
 •	Track progress against the test plan and adjust as necessary to meet project milestones.
 •	Manage any risks or issues related to testing activities and escalate as necessary.
+
 **Product owner Vasiliu Madalina**
+
 •	Define acceptance criteria for features under development and make sure they are included in the test plan.
 •	Provide input on priority areas for testing based on business requirements and user needs.
 •	Review and approve the test plan to ensure that it adequately covers the functionality and features of the TripAdvisor app.
 •	Collaborate with the project manager and QA engineer to prioritize testing efforts based on user stories or feature importance.
 •	Participate in test case reviews and provide feedback to ensure alignment with intended functionality.
+
 **Software developer Preda Roxana**
+
 •	Develop high-quality code that adheres to coding standards and best practices to facilitate easier testing.
 •	Participate in the creation and review of test cases to ensure full coverage of code changes.
 •	Correct any defects or problems identified during testing in a timely manner.
 •	Provide assistance to the QA engineer in troubleshooting and resolving any technical issues encountered during testing.
 •	Work with QA engineer to automate testing where possible to increase efficiency and reliability.
+
 **QA Engineer Corfu Claudia Ioana**
+
 •	Develop the Test Plan document that describes the testing approach, scope, and required resources.
 •	Create detailed test cases based on requirements, user stories and acceptance criteria.
 •	Run test cases manually or using automated testing tools to validate the functionality of the TripAdvisor app.
@@ -59,25 +66,25 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**•	Availability of the test environment with the latest version of TripAdvisor.
+•	Availability of the test environment with the latest version of TripAdvisor.
 •	Completion of initial system integration testing to ensure basic functionality.
 •	Availability of test data, including examples of reviews, ratings and user profiles.
-•	Test environment set up to simulate various scenarios and usage environments.**
+•	Test environment set up to simulate various scenarios and usage environments.
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**•	All critical defects identified during testing are addressed and verified.
+•	All critical defects identified during testing are addressed and verified.
 •	Performance benchmarks meet predefined thresholds for response time and resource utilization.
 •	Security vulnerabilities identified during testing are mitigated or documented with a resolution plan.
 •	Identified usability issues are addressed or prioritized for future improvements.
 •	Test documentation, including test cases, test results and any deviations are reviewed and finalized.
-•	Sign-off by stakeholders indicating readiness for production deployment.**
+•	Sign-off by stakeholders indicating readiness for production deployment.
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
-**a. Website functionalities
+a. Website functionalities
 b. User registration and login processes
 c. Localization and internationalization testing (multiple languages and regions)
 d. Search functionality for hotels, restaurants, attractions, etc.
@@ -86,46 +93,46 @@ f. Booking process for hotels, flights, and restaurants (if applicable)
 g. Integration with third-party services (e.g., Google Maps)
 h. Performance testing (response times, loading times, etc.)
 i. Compatibility testing across different browsers 
-j. Security testing (data protection, encryption, etc.)**
+j. Security testing (data protection, encryption, etc.)
 
 <h5>Tests not in scope: </h5>
 
-**a. Third-party services not directly related to TripAdvisor's core functionalities
+a. Third-party services not directly related to TripAdvisor's core functionalities
 b. Backend infrastructure testing (assumed to be covered by the development team)
 c. Testing of features not publicly accessible or intended for internal use only
 d. Mobile application functionalities (iOS and Android)
-e. Accessibility testing (compliance with WCAG standards)**
+e. Accessibility testing (compliance with WCAG standards)
 
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
 
-**Third-Party Integration Risks:
+**Third-Party Integration Risks:**
 TripAdvisor relies on various third-party services like payment gateways, mapping services, and social media platforms. Any issues or changes to these integrations can disrupt the project timeline and functionality.
-Network Dependency:
+**Network Dependency:**
 Network issues can delay project progress. Testing under different network conditions is crucial to identify potential performance bottlenecks and ensure project deliverables meet performance standards.
-Platform Updates:
-Updates to operating systems, web browsers, and mobile devices can affect project timelines and deliverables. Ensuring compatibility with the latest software and device versions during the project lifecycle is necessary to avoid delays.**
+**Platform Updates:**
+Updates to operating systems, web browsers, and mobile devices can affect project timelines and deliverables. Ensuring compatibility with the latest software and device versions during the project lifecycle is necessary to avoid delays.
 
 <h5> Product risks: </h5>
 
-**Third-Party Integration Risks:
+**Third-Party Integration Risks:**
 Problems or changes to third-party services can impact the product's functionality and user experience, potentially leading to dissatisfaction and loss of users.
-Network Dependency:
+**Network Dependency:**
 Network issues can affect the product's performance and accessibility, leading to a poor user experience and potential loss of users.
-Security Vulnerabilities:
+**Security Vulnerabilities:**
 With a large user base, TripAdvisor is a potential target for security breaches. Risks include data breaches, unauthorized access to user accounts, and manipulation of user-generated content. Security testing is crucial to protect user data and maintain trust.
-Platform Updates:
+**Platform Updates:**
 Compatibility issues due to updates in operating systems, web browsers, and mobile devices can affect the product's performance and user experience. Ongoing maintenance is required to ensure smooth functionality.
-Scalability Challenges:
-As the user base grows, TripAdvisor needs to scale its infrastructure. Failure to anticipate scalability requirements can lead to performance issues and downtime during peak periods, negatively affecting the user experience and the platform’s reputation.**
+**Scalability Challenges:**
+As the user base grows, TripAdvisor needs to scale its infrastructure. Failure to anticipate scalability requirements can lead to performance issues and downtime during peak periods, negatively affecting the user experience and the platform’s reputation.
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 <h3>1.2 Test Monitoring and Control<h3>
-**### Test Monitoring and Control in the Testing Project for TripAdvisor’s Account Module
+**Test Monitoring and Control in the Testing Project for TripAdvisor’s Account Module**  
 
 **Test monitoring and control** is a critical component in the testing lifecycle that ensures the testing process is on track, aligns with the project objectives, and meets the quality standards. Here’s how it is reflected in the provided plan:
 
@@ -141,11 +148,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
    - **Test Reporting (Day 8-9 of Test Schedule)**: Compiling test results and preparing summary reports allows for assessing test outcomes and making informed decisions on any corrective actions needed.
    - **Test Documentation Review**: Ensuring all test documentation, including test cases, results, and deviations, are reviewed and finalized provides control over the testing process and ensures all aspects are thoroughly checked and approved.
 
-### Integration into the Test Plan
-
-To explicitly include test monitoring and control in the test plan, consider adding a dedicated section under the testing strategy or as a standalone section:
-
-#### Test Monitoring and Control
+**Test Monitoring and Control**
 
 **Objective**: Ensure the testing process is effectively tracked and controlled to meet the project objectives and quality standards.
 
