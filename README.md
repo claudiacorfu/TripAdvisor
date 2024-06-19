@@ -164,8 +164,7 @@ As the user base grows, TripAdvisor needs to scale its infrastructure. Failure t
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-<h3>1.2 Test Monitoring and Control<h3>
-**Test Monitoring and Control in the Testing Project for TripAdvisor’s Account Module**  
+1.2 **Test Monitoring and Control in the Testing Project for TripAdvisor’s Account Module**  
 
 **Test monitoring and control** is a critical component in the testing lifecycle that ensures the testing process is on track, aligns with the project objectives, and meets the quality standards. Here’s how it is reflected in the provided plan:
 
@@ -208,6 +207,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
    - Adjusting the test plan, schedule, and resources as needed based on ongoing progress and findings.
 
 This section ensures a structured approach to monitoring and controlling the testing process, enhancing transparency, accountability, and the likelihood of achieving the project’s quality objectives.**
+
 **![Screenshot 2024-06-19 164408](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/adac9004-2961-4bab-b461-173e95083710)**
 **![Screenshot 2024-06-19 164423](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/c633ecce-a981-4fcd-b063-d17f9b04eb89)**
 
