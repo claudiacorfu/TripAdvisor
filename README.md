@@ -134,23 +134,31 @@ e. Accessibility testing (compliance with WCAG standards)
 
 **Third-Party Integration Risks:**
 TripAdvisor relies on various third-party services like payment gateways, mapping services, and social media platforms. Any issues or changes to these integrations can disrupt the project timeline and functionality.
+
 **Network Dependency:**
 Network issues can delay project progress. Testing under different network conditions is crucial to identify potential performance bottlenecks and ensure project deliverables meet performance standards.
+
 **Platform Updates:**
 Updates to operating systems, web browsers, and mobile devices can affect project timelines and deliverables. Ensuring compatibility with the latest software and device versions during the project lifecycle is necessary to avoid delays.
+
 
 <h5> Product risks: </h5>
 
 **Third-Party Integration Risks:**
 Problems or changes to third-party services can impact the product's functionality and user experience, potentially leading to dissatisfaction and loss of users.
+
 **Network Dependency:**
 Network issues can affect the product's performance and accessibility, leading to a poor user experience and potential loss of users.
+
 **Security Vulnerabilities:**
 With a large user base, TripAdvisor is a potential target for security breaches. Risks include data breaches, unauthorized access to user accounts, and manipulation of user-generated content. Security testing is crucial to protect user data and maintain trust.
+
 **Platform Updates:**
 Compatibility issues due to updates in operating systems, web browsers, and mobile devices can affect the product's performance and user experience. Ongoing maintenance is required to ensure smooth functionality.
+
 **Scalability Challenges:**
 As the user base grows, TripAdvisor needs to scale its infrastructure. Failure to anticipate scalability requirements can lead to performance issues and downtime during peak periods, negatively affecting the user experience and the platform’s reputation.
+
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
