@@ -273,8 +273,8 @@ Test execution chart was generated and can be found below.
 ![Screenshot 2024-06-19 135338](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/8b911b16-b2e3-47bd-a9fd-6ffa74611387)
 
 
-The final report shows that a number **5** tests have failed of a total of **40**
+The final report shows that a number 5 tests have failed of a total of 40
 
-A number of **5** total bugs were found, from which the priority is: **2** are high and **3** are medium.
+A number of 5 total bugs were found, from which the priority is: 2 are high and 3 are medium.
 
 The project has successfully implemented and tested a wide range of functionality for users, with a high test execution and success rate. Five significant bugs have been identified, all of which are being resolved. Prompt resolution of these bugs will be crucial to ensure a continued robust user experience. The detailed testing and bug identification efforts have laid a solid foundation for further improvements and future development.
