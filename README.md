@@ -230,8 +230,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 This section ensures a structured approach to monitoring and controlling the testing process, enhancing transparency, accountability, and the likelihood of achieving the project’s quality objectives.**
 
-**![Screenshot 2024-06-19 164408](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/adac9004-2961-4bab-b461-173e95083710)**
-**![Screenshot 2024-06-19 164423](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/c633ecce-a981-4fcd-b063-d17f9b04eb89)**
+![Screenshot 2024-06-19 164408](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/adac9004-2961-4bab-b461-173e95083710)
+![Screenshot 2024-06-19 164423](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/c633ecce-a981-4fcd-b063-d17f9b04eb89)
 
 
 <h3> 1.3 Test Analysis </h3>
@@ -266,7 +266,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.6 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **https://github.com/claudiacorfu/TripAdvisor/blob/main/Traceability_Matrix.xlsx**
+The traceability matrix was generated and can be found here: https://github.com/claudiacorfu/TripAdvisor/blob/main/Traceability_Matrix.xlsx
 
 Test execution chart was generated and can be found below. 
 
