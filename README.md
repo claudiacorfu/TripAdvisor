@@ -31,36 +31,58 @@ The plan identifies the items to be tested, the features to be tested, the types
 **Project manager Tapalaga Ioana**
 
 •	Overall responsibility for project planning, including scheduling and resource allocation for testing activities.
+
 •	Collaborates with product owner to define scope, objectives and project deliverables related to testing.
+
 •	Ensure the test plan is aligned with project goals and timelines.
+
 •	Coordinate communication between team members, stakeholders and other relevant parties.
+
 •	Track progress against the test plan and adjust as necessary to meet project milestones.
+
 •	Manage any risks or issues related to testing activities and escalate as necessary.
+
 
 **Product owner Vasiliu Madalina**
 
 •	Define acceptance criteria for features under development and make sure they are included in the test plan.
+
 •	Provide input on priority areas for testing based on business requirements and user needs.
+
 •	Review and approve the test plan to ensure that it adequately covers the functionality and features of the TripAdvisor app.
+
 •	Collaborate with the project manager and QA engineer to prioritize testing efforts based on user stories or feature importance.
+
 •	Participate in test case reviews and provide feedback to ensure alignment with intended functionality.
+
 
 **Software developer Preda Roxana**
 
 •	Develop high-quality code that adheres to coding standards and best practices to facilitate easier testing.
+
 •	Participate in the creation and review of test cases to ensure full coverage of code changes.
+
 •	Correct any defects or problems identified during testing in a timely manner.
+
 •	Provide assistance to the QA engineer in troubleshooting and resolving any technical issues encountered during testing.
+
 •	Work with QA engineer to automate testing where possible to increase efficiency and reliability.
+
 
 **QA Engineer Corfu Claudia Ioana**
 
 •	Develop the Test Plan document that describes the testing approach, scope, and required resources.
+
 •	Create detailed test cases based on requirements, user stories and acceptance criteria.
+
 •	Run test cases manually or using automated testing tools to validate the functionality of the TripAdvisor app.
+
 •	Document and report any defects found during testing, including reproduction steps and severity ratings.
+
 •	Work with the development team to ensure timely resolution of defects and retesting of fixes.
+
 •	Monitor test coverage and report testing progress to stakeholders, including any risks or issues affecting the testing schedule.
+
 •	Continually improve testing processes and methodologies to improve the quality of the TripAdvisor app.
 
 
