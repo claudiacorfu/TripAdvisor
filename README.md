@@ -24,7 +24,7 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(https://github.com/claudiacorfu/TripAdvisor/blob/main/Test%20Plan%20Corfu%20x%20TripAdvisor.pdf)**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here [Link Here](https://github.com/claudiacorfu/TripAdvisor/blob/main/Test%20Plan%20Corfu%20x%20TripAdvisor.pdf)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
@@ -235,9 +235,9 @@ This section ensures a structured approach to monitoring and controlling the tes
 
 
 <h3>1.3 Test Analysis</h3>
-The testing process will be executed based on the application requirements. <b>
+The testing process will be executed based on the application requirements.
 
-The following test conditions were found: <br>
+The following test conditions were found: 
 
 ![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/7d813844-cf99-42e1-914a-cfcf8f26755b)
 ![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/8d443712-01b1-4c96-9fcc-0813d4696b6d)
@@ -245,7 +245,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Stories%2C%20Tests%2C%20Bugs.pdf)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Link Here](https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Stories%2C%20Tests%2C%20Bugs.pdf)
 
 <h3>1.5. Test Execution</h3>
 
@@ -254,7 +254,7 @@ Test cases are executed on the created test Cycle summary:
 ![image](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/e1beeeed-a52c-4af4-9b6d-516f3e48c006)
 
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Bugs.pdf
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Link Here](https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Bugs.pdf)
 
 The following is a summary of the bugs that have been found
 
@@ -266,7 +266,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 <h3>1.6 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: https://github.com/claudiacorfu/TripAdvisor/blob/main/Traceability_Matrix.xlsx
+The traceability matrix was generated and can be found here: [Link Here](https://github.com/claudiacorfu/TripAdvisor/blob/main/Traceability_Matrix.xlsx)
 
 Test execution chart was generated and can be found below. 
 
