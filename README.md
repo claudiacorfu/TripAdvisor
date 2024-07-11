@@ -186,7 +186,7 @@ As the user base grows, TripAdvisor needs to scale its infrastructure. Failure t
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-1.2 **Test Monitoring and Control in the Testing Project for TripAdvisor’s Account Module**  
+<h3>1.2 Test Monitoring and Control in the Testing Project for TripAdvisor’s Account Module</h3>
 
 **Test monitoring and control** is a critical component in the testing lifecycle that ensures the testing process is on track, aligns with the project objectives, and meets the quality standards. Here’s how it is reflected in the provided plan:
 
@@ -228,13 +228,13 @@ The entry criteria defined in the Test Planning phase have been achieved and the
    - Regular review of test documentation and progress.
    - Adjusting the test plan, schedule, and resources as needed based on ongoing progress and findings.
 
-This section ensures a structured approach to monitoring and controlling the testing process, enhancing transparency, accountability, and the likelihood of achieving the project’s quality objectives.**
+This section ensures a structured approach to monitoring and controlling the testing process, enhancing transparency, accountability, and the likelihood of achieving the project’s quality objectives.
 
 ![Screenshot 2024-06-19 164408](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/adac9004-2961-4bab-b461-173e95083710)
 ![Screenshot 2024-06-19 164423](https://github.com/claudiacorfu/TripAdvisor/assets/157408462/c633ecce-a981-4fcd-b063-d17f9b04eb89)
 
 
-<h3> 1.3 Test Analysis </h3>
+<h3>1.3 Test Analysis</h3>
 The testing process will be executed based on the application requirements. <b>
 
 The following test conditions were found: <br>
@@ -247,7 +247,7 @@ The following test conditions were found: <br>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (https://github.com/claudiacorfu/TripAdvisor/blob/main/PDF%20Stories%2C%20Tests%2C%20Bugs.pdf)
 
-<h3>1.5. Test Execution </h3>
+<h3>1.5. Test Execution</h3>
 
 Test cases are executed on the created test Cycle summary: 
 
@@ -263,7 +263,7 @@ The following is a summary of the bugs that have been found
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.6 Test Completion
+<h3>1.6 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: https://github.com/claudiacorfu/TripAdvisor/blob/main/Traceability_Matrix.xlsx
