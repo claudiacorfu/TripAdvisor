@@ -90,10 +90,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 •	Ensure that all necessary documentation is complete and up to date.
 
-•	Ensure the test environment is set up with the latest version of the TripAdvisor application.
-
-•	Ensure test data is valid, varied, and covers different user profiles.
-
 •	Define the criteria for user acceptance testing of the Account Module.
 
 
